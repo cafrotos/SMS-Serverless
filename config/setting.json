@@ -1,0 +1,6 @@
+{
+  "Integration": {
+    "SpeedSMS": "http://api.speedsms.vn/index.php/",
+    "ShortenUrl": ""
+  }
+}
